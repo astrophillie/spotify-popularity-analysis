@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv312/
+
+# Large local source data; see data/README.md.
+data/spotify-tracks-dataset-detailed.csv
+
+# Generated report; chart images remain available as portfolio artifacts.
+output/spotify_insights_report.txt
