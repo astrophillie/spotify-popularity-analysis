@@ -96,7 +96,7 @@ spotify_popularity_analysis/
 Clone the repository and open the project directory:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/spotify-popularity-analysis.git
+git clone https://github.com/astrophillie/spotify-popularity-analysis.git
 cd spotify-popularity-analysis
 ```
 
